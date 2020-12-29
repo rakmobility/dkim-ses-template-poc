@@ -1,4 +1,4 @@
-##This project contains sample Java program to send mail through AWS SES with DKIM signing
+## This project contains sample Java program to send mail through AWS SES with DKIM signing
 
 ---
 
