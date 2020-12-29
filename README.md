@@ -25,4 +25,4 @@ Note: 	Replace selector with a unique name that identifies the key. Replace exam
 
 `aws ses create-template --cli-input-json file:///path/template.json`
 
-5. Make changes to AmazonSESDKIMSIGN.java as mentioned in TODO comments and run AmazonSESDKIMSIGN.java as Java Application in IDE.
+6. Make changes to AmazonSESDKIMSIGN.java as mentioned in TODO comments and run AmazonSESDKIMSIGN.java as Java Application in IDE.
