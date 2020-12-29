@@ -1,0 +1,8 @@
+{
+  "Template": {
+    "TemplateName": "MyTemplate",
+    "SubjectPart": "Greetings from RAKBANK",
+    "HtmlPart": "<h1>Hello,</h1><p>Verify DKIM Signature</p>",
+    "TextPart": "Hello"
+  }
+}
